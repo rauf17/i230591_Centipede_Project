@@ -19,15 +19,13 @@ Welcome to the **Centipede Game Clone** project! This is a procedural programmin
 
 2. Navigate to the executable directory:
    ```bash
-   Naviagte to x64 and run i230591_OOP_GameBoy_Project.exe to play the game!
+   Naviagte to x64 and run i230591_Centipede_Project.exe to play the game!
    ```
 
 3. Run the game:
    ```
-   i230591_OOP_GameBoy_Project.exe
+   i230591_Centipede_Project.exe
    ```
-
-> ⚠️ Ensure all required SFML DLLs and assets (like music files and textures) are located in the same directory as the executable.
 
 ## How to Play
 
@@ -35,7 +33,7 @@ Welcome to the **Centipede Game Clone** project! This is a procedural programmin
 2. **Gameplay**:
    - Move left and right using arrow keys.
    - Shoot bullets upward to destroy segments of the centipede.
-   - Avoid contact with the centipede or mushrooms.
+   - Avoid contact with the centipede.
 3. **Controls**:
    - **Left/Right Arrow**: Move player horizontally
    - **Up/Down Arrow**: Move player vertically 
@@ -69,6 +67,20 @@ For feedback, bugs, or questions, feel free to reach out:
 
 ## Gameplay
 
-![Gameplay Screenshot](screenshot.png)
-> Make sure to include this `screenshot.png` in your repository root to display it correctly.
+![image](https://github.com/user-attachments/assets/a2f7d929-4a92-4a4e-8463-e4c53d64a9cc)
+
+![image](https://github.com/user-attachments/assets/2af39d05-0a20-4a29-8a28-c216d5784d68)
+
+![image](https://github.com/user-attachments/assets/da307c4c-615a-4034-8995-acd4bd25cb93)
+
+![image](https://github.com/user-attachments/assets/38b5811f-0172-4eb4-b080-586650259a21)
+
+![image](https://github.com/user-attachments/assets/2c4b76cb-6692-4872-bf71-fa6471929da4)
+
+
+
+
+
+
+
 
