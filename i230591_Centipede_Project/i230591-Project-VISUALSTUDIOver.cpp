@@ -63,7 +63,11 @@ void showScore(sf::RenderWindow &window, int &score);
 void drawMenu(sf::RenderWindow &window, sf::Font &font, sf::Text &title, sf::Text &startText, sf::Text &quitText,sf::Text &NameText ,int selectedOption) ;
 int displayMenu(sf::RenderWindow &window, sf::Font &font);
 
-
+void aFunciton() {
+	// This function is empty and serves no purpose.
+	// It is here to demonstrate that you can add your own functions.
+	// You can remove it if you want.
+}
 int main()
 {
     srand(time(0));
