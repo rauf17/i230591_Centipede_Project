@@ -28,13 +28,6 @@ const int x = 0;
 const int y = 1;
 const int exists = 2;
 
-
-/////////////////////////////////////////////////////////////////////////////
-//                                                                         //
-// Write your functions declarations here. Some have been written for you. //
-//                                                                         //
-/////////////////////////////////////////////////////////////////////////////
-
 //functions for handling player movement
 void drawPlayer(sf::RenderWindow &window, float player[], sf::Sprite &playerSprite);
 void drawBullet(sf::RenderWindow &window, float bullet[], sf::Sprite &bulletSprite);
@@ -63,16 +56,6 @@ void showScore(sf::RenderWindow &window, int &score);
 void drawMenu(sf::RenderWindow &window, sf::Font &font, sf::Text &title, sf::Text &startText, sf::Text &quitText,sf::Text &NameText ,int selectedOption) ;
 int displayMenu(sf::RenderWindow &window, sf::Font &font);
 
-void aFunciton() {
-	// This function is empty and serves no purpose.
-	// It is here to demonstrate that you can add your own functions.
-	// You can remove it if you want.
-
-    //now i am adding this to test out github
-
-
-	//this is a test
-}
 int main()
 {
     srand(time(0));
@@ -199,12 +182,6 @@ int main()
     	while(window.isOpen() && isplayeralive) 						//starting the game window and it will run as long as the player is alive
     	{
 
-		///////////////////////////////////////////////////////////////
-		//                                                           //
-		// Call Your Functions Here. Some have been written for you. //
-		// Be vary of the order you call them, SFML draws in order.  //
-		//                                                           //
-		///////////////////////////////////////////////////////////////
 	   if (inMenu) 
 	   {
        		 window.clear();
@@ -297,13 +274,6 @@ int main()
    	}
  return EXIT_SUCCESS;
 }
-
-////////////////////////////////////////////////////////////////////////////
-//                                                                        //
-// Write your functions definitions here. Some have been written for you. //
-//                                                                        //
-////////////////////////////////////////////////////////////////////////////
-
 
 void drawPlayer(sf::RenderWindow &window, float player[], sf::Sprite &playerSprite)
 {
