@@ -22,16 +22,11 @@ Welcome to the **Centipede Game Clone** project! This is a procedural programmin
    ```
 
 2. 📂 Navigate to the executable directory:
-   ```bash
-   Navigate to x64 and run i230591_Centipede_Project.exe to play the game!
-   ```
+   Navigate to `i230591_Centipede_Project` folder and find the `i230591_Centipede_Project.exe` to play the game!
 
 3. ▶️ Run the game:
-   ```
-   i230591_Centipede_Project.exe
-   ```
+   Click `i230591_Centipede_Project.exe`
 
-> ⚠️ Make sure all SFML `.dll` files and assets (like music and textures) are in the same directory as the `.exe`.
 
 ---
 
